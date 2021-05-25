@@ -1,0 +1,9 @@
+@import "global/config.css";
+@import "global/variables.css";
+@import "icons/icons.css";
+@import "urlbar/urlbar.css";
+@import "navbar/navbar.css";
+@import "sidebar/sidebar.css";
+@import "popup/popup.css";
+@import "interface/interface.css";
+@import "tabs/tabs.css";

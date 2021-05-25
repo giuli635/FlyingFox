@@ -1,0 +1,17 @@
+.tabbrowser-tab::after {
+    border: none !important;
+}
+
+.tab-background .tab-line,
+.tab-background .tab-bottom-line {
+    display: none;
+}
+
+tab:not([selected="true"]) > .tab-stack:hover > .tab-background {
+    background: var(--arrowpanel-background) !important;
+}
+
+.tab-stack {
+    border-radius: 7px 7px 0px 0px;
+    overflow: hidden;
+}
