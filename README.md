@@ -1,6 +1,9 @@
-# FlyingFox Fork
+# NatureFox
 
-<a href="http://flyingfox.netlify.app">Visit the app</a> to customize</h5>
+A fork of FlyingFox.
+It has just a few modifications to the code and to the look of FlyingFox.
+
+You can <a href="http://flyingfox.netlify.app">visit the app</a> of FlyingFox to customize</h5>
 
 # Acknowledgments 
 
