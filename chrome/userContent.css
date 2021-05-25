@@ -1,21 +1,13 @@
 @import "global/config.css";
 
+*{
+  scrollbar-width: 3px !important;
+}
+
 /* Removes white loading page */
 
 @-moz-document url(about:blank), url(about:newtab), url(about:home) {
     html:not(#ublock0-epicker), html:not(#ublock0-epicker) body, #newtab-customize-overlay {
       background: var(--dark-base) !important;
-    }
-}
-
-/* Hide scrollbar */
-
-:root{
-    scrollbar-width: none !important;
-}
-
-@-moz-document url(about:privatebrowsing) {
-    :root{
-        scrollbar-width: none !important;
     }
 }
