@@ -1,7 +1,7 @@
 # NatureFox
 
 A fork of FlyingFox.
-It has just a few modifications to the code and to the look of FlyingFox, with a configuration of nighTab.
+It has just a few modifications to the code and to the look of FlyingFox, with a configuration of nightTab.
 
 ![imagen](https://user-images.githubusercontent.com/75577897/119529743-c122ff00-bd58-11eb-944a-4bf64b452752.png)
 
