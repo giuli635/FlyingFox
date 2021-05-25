@@ -1,7 +1,9 @@
 # NatureFox
 
 A fork of FlyingFox.
-It has just a few modifications to the code and to the look of FlyingFox.
+It has just a few modifications to the code and to the look of FlyingFox, with a configuration of nighTab.
+
+![imagen](https://user-images.githubusercontent.com/75577897/119529743-c122ff00-bd58-11eb-944a-4bf64b452752.png)
 
 You can <a href="http://flyingfox.netlify.app">visit the app</a> of FlyingFox to customize.</h5>
 
