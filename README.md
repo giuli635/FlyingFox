@@ -3,7 +3,7 @@
 A fork of FlyingFox.
 It has just a few modifications to the code and to the look of FlyingFox.
 
-You can <a href="http://flyingfox.netlify.app">visit the app</a> of FlyingFox to customize</h5>
+You can <a href="http://flyingfox.netlify.app">visit the app</a> of FlyingFox to customize.</h5>
 
 # Acknowledgments 
 
