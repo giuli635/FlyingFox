@@ -1,4 +1,4 @@
-<h5 align="center"><a href="https://github.com/akshat46/FlyingFox/releases">Get it here</a> and <a href="http://flyingfox.netlify.app">visit the app</a> to customize</h5>
+<a href="http://flyingfox.netlify.app">Visit the app</a> to customize</h5>
 
 ## Acknowledgments 
 
