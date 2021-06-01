@@ -205,9 +205,9 @@ menupopup {
     margin-inline-start: 16px !important;
 }
 
-.menu-iconic.bookmark-item .menu-right {
+/*.menu-iconic.bookmark-item .menu-right {
     transform: scale(2) !important;
-}
+}*/
 
 menuitem[type="checkbox"] > .menu-iconic-left > .menu-iconic-icon,
 menuitem[checked="true"] > .menu-iconic-left > .menu-iconic-icon,
