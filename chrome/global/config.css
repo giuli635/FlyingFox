@@ -1,30 +1,30 @@
 @import "../icons/extension-icons.css";
 
 :root { 
-  --dark-0: #131C20;
-  --dark-base: #1D2A30;
-  --dark-1: #283A43;
-  --dark-2: #304650;
-  --dark-3: #3F5C69;
-  --dark-4: #476776;
+  --dark-0: #17181C;
+  --dark-base: #1F2128;
+  --dark-1: #2C2F3A;
+  --dark-2: #353945;
+  --dark-3: #474C5C;
+  --dark-4: #505568;
   --light-0: #FFFFFF;
   --light-base: #ffffff;
   --light-1: #D6D6D6;
   --light-2: #CCCCCC;
   --light-3: #C2C2C2;
   --light-4: #B8B8B8;
-  --accent: #1E6062;
+  --accent: #506B75;
   --yellow: #dbc074;
   --green: #5cb8a7;
   --red: #c94f6d;
 
-  --dividers: 2px;
+  --dividers: 1px;
     
   --tl-animation-duration: 200ms;
 }
 
 :root[privatebrowsingmode="temporary"]{ 
-  --dark-0: #2D2046;
+  --dark-0: #261a3b;
   --dark-base: #32234D;
   --dark-1: #3F2D62;
   --dark-2: #493370;
