@@ -8,6 +8,8 @@ The green color look is just for dark theme of Firefox. If you choose light them
 
 You can <a href="http://flyingfox.netlify.app">visit the app</a> of FlyingFox to customize.</h5>
 
+## It doesn't work well in Firefox 89.
+
 # Acknowledgments 
 
 Some of the code, namely urlbar and popups CSS are slighltly edited versions of the ones from [Material Fox](https://github.com/muckSponge/MaterialFox).
