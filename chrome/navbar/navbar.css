@@ -1,0 +1,15 @@
+/* Border of the toolbox */
+toolbox#navigator-toolbox {
+    border-bottom: solid var(--dividers) var(--sidebar-shadow-color) !important;
+}
+
+#nav-bar {
+    min-height: 36px !important;
+    box-shadow: none !important;
+    background-color: var(--toolbar-bgcolor) !important;
+}
+
+/* Bookmarks bar */
+#main-window #PersonalToolbar {
+    align-content: center;
+}

@@ -1,0 +1,44 @@
+@import "../icons/extension-icons.css";
+
+:root { 
+  --dark-0: #0f121a;
+  --dark-base: #181c29;
+  --dark-1: #1e2435;
+  --dark-2: #262d42;
+  --dark-3: #303A54;
+  --dark-4: #384361;
+  --light-0: #EFF1F6;
+  --light-base: #C8D0DF;
+  --light-1: #BCC5D7;
+  --light-2: #AFBAD0;
+  --light-3: #A2AFC8;
+  --light-4: #95A4C1;
+  --accent: #0E3271;
+  --yellow: #dbc074;
+  --green: #5cb8a7;
+  --red: #c94f6d;
+
+  --dividers: 2px;
+    
+  --tl-animation-duration: 200ms;
+}
+
+:root[privatebrowsingmode="temporary"]{ 
+  --dark-0: #1C0E34;
+  --dark-base: #20103c;
+  --dark-1: #2F1D4E;
+  --dark-2: #38225D;
+  --dark-3: #4A2D7B;
+  --dark-4: #53338A;
+  --light-0: #CC6B9C;
+  --light-base: #B9407C;
+  --light-1: #AB3B73;
+  --light-2: #9C3569;
+  --light-3: #8D305E;
+  --light-4: #7D2B54;
+  --accent: #e9207e;
+  --yellow: #C9B336;
+  --green: #36C987;
+  --red: #C9365D;
+  --extension-icon-mask: grayscale(85%) invert(13%) sepia(80%) saturate(3107%) hue-rotate(256deg) brightness(84%) contrast(93%); 
+}

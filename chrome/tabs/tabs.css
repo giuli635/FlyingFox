@@ -1,0 +1,39 @@
+#titlebar,
+#tabbrowser-tabs {
+    --tab-min-height: 32px !important;
+    --tab-border-radius: 0;
+	--proton-tab-block-margin: 0;
+}
+
+.tabbrowser-tab {
+    /* Tabs styles */
+    overflow: hidden !important;
+    /* Remove padding between tabs */
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+/* Remove padding between pinned tabs and common tabs */
+
+#tabbrowser-tabs[haspinnedtabs]:not([positionpinnedtabs]) > #tabbrowser-arrowscrollbox > .tabbrowser-tab[first-visible-unpinned-tab] {
+	margin-inline-start: 0 !important;
+}
+
+/* Tab: selected colors */
+
+#tabbrowser-tabs .tabbrowser-tab[selected] .tab-content {
+    background: var(--toolbar-bgcolor) !important;
+}
+
+/* Tab: hovered colors */
+
+#tabbrowser-tabs .tabbrowser-tab:hover:not([selected]) .tab-content {
+    background: var(--arrowpanel-background) !important; 
+}
+
+/*.tabbrowser-tab[pinned=true]{
+}*/
+  
+#tabs-newtab-button {
+    transform: scale(0.9) !important;
+}
