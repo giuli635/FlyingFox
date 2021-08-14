@@ -4,12 +4,12 @@ toolbox#navigator-toolbox {
 }
 
 #nav-bar {
-    min-height: 36px !important;
+    min-height: 25px !important;
     box-shadow: none !important;
     background-color: var(--toolbar-bgcolor) !important;
 }
 
 /* Bookmarks bar */
 #main-window #PersonalToolbar {
-    align-content: center;
+    align-content: center !important;
 }

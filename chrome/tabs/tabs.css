@@ -1,6 +1,6 @@
 #titlebar,
 #tabbrowser-tabs {
-    --tab-min-height: 32px !important;
+    --tab-min-height: 25px !important;
     --tab-border-radius: 0;
 	--proton-tab-block-margin: 0;
 }
